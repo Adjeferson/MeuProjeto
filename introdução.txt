@@ -1,1 +1,3 @@
 Este arquivo é uma introdução do exercício 2 da atividade prática 2.
+
+No exercício 3, foi criado um branch com o nome "feature-navbar".
